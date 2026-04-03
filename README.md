@@ -23,11 +23,6 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheOverforge&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheOverforge&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000" height="170" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=TheOverforge&theme=midnight-purple&hide_border=true&background=00000000" height="170" />
 </p>
 
